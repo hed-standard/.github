@@ -5,7 +5,7 @@
 Click the following links if you want to
 
 - [Read the HED specification](https://hed-specification.readthedocs.io/en/latest/)
-- [View the HED vocabulary](https://hed-specification.readthedocs.io/en/latest/)
+- [View the HED vocabulary](https://www.hedtags.org/display_hed.html)
 - [Use online HED tools](https://hedtools.ucsd.edu/hed)
 - [Find HED example datasets and code](https://github.com/hed-standard/hed-examples)
 - Use HED annotation for validation or analysis in:
