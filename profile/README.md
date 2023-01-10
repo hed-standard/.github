@@ -2,7 +2,7 @@
 
 *Hierarchical Event Descriptors enable open, machine-actionable annotation for data*
 
-See the [HED Project Home page](https://hedtags.org) or click one of the following links:
+See the [HED Project Home page](https://www.hedtags.org/) or click one of the following links:
 
 - [Look at some tutorials and examples](https://www.hed-resources.org)
 - [Read the HED specification](https://hed-specification.readthedocs.io/en/latest/)
