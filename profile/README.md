@@ -4,15 +4,14 @@
 
 See the [HED Project Home page](https://www.hedtags.org/) or click one of the following links:
 
-- [Look at some tutorials and examples](https://www.hed-resources.org)
-- [Read the HED specification](https://hed-specification.readthedocs.io/en/latest/)
-- [View the HED vocabulary](https://www.hedtags.org/display_hed.html)
-- [Use online HED tools](https://hedtools.ucsd.edu/hed)
+- [Look at some tutorials and examples](https://www.hedtags.org/hed-resources)
+- [Read the HED specification](https://https://www.hedtags.org/hed-specification)
+- [View the HED vocabulary](https://www.hedtags.org/hed-schema-browser)
+- [Use online HED tools](https://hedtools.org/hed)
 - [Find HED example datasets and code](https://github.com/hed-standard/hed-examples)
 - Use HED annotation for validation or analysis in:
   - [Python](https://github.com/hed-standard/hed-python)
   - [MATLAB / Octave](https://github.com/hed-standard/hed-matlab)
-- [Use the standalone GUI for annotation](https://github.com/hed-standard/CTagger)
 - [View or use the specialized HED library vocabularies](https://github.com/hed-standard/hed-schemas)
 
 The source code and content for the HED tools can be found in the
